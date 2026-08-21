@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Documents/GitHub/K4-Track2-Day21-CI-CD-for-AI-Systems/mlruns/0/2ec4a14971054efc9eec206f6de54577/artifacts
+end_time: 1787311947642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ec4a14971054efc9eec206f6de54577
+run_name: traveling-duck-500
+run_uuid: 2ec4a14971054efc9eec206f6de54577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787311942650
+status: 3
+tags: []
+user_id: DELL

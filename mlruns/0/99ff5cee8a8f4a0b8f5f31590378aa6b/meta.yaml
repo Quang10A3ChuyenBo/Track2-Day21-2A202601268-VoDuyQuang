@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Documents/GitHub/K4-Track2-Day21-CI-CD-for-AI-Systems/mlruns/0/99ff5cee8a8f4a0b8f5f31590378aa6b/artifacts
+end_time: 1787311942557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99ff5cee8a8f4a0b8f5f31590378aa6b
+run_name: receptive-foal-831
+run_uuid: 99ff5cee8a8f4a0b8f5f31590378aa6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787311933438
+status: 3
+tags: []
+user_id: DELL

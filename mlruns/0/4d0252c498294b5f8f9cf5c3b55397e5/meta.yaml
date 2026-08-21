@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Documents/GitHub/K4-Track2-Day21-CI-CD-for-AI-Systems/mlruns/0/4d0252c498294b5f8f9cf5c3b55397e5/artifacts
+end_time: 1787311952475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d0252c498294b5f8f9cf5c3b55397e5
+run_name: luminous-doe-135
+run_uuid: 4d0252c498294b5f8f9cf5c3b55397e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787311947714
+status: 3
+tags: []
+user_id: DELL
